@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthuer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Frontend+Developer+💻;From+India+🇮🇳;Building+clean+%26+fast+UI+✨" alt="Typing SVG" />
-</p>
+<p align="center"><i>A frontend developer who turns designs into clean, fast, and enjoyable interfaces.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-6366F1?style=for-the-badge" />
@@ -10,33 +8,88 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-25%2B-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-Unlimited%20☕-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Next.js-EC4899?style=flat-square" />
+</p>
+
 ---
 
-### 🚀 About Me
-
-- 🔭 Currently working on **PixelCart**, sebuah dashboard e-commerce berbasis React
-- 🌱 Currently learning **Next.js 15 & TypeScript tingkat lanjut**
-- 💬 Ask me about **JavaScript, React, UI/UX**
-- ⚡ Fun fact: **bisa menghabiskan 3 jam hanya untuk memilih warna tombol** 😄
-
-### 🛠️ Tech Stack
+<h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,tailwind,nodejs,git,figma&perline=11" />
+  🔭 Currently working on <b>PixelCart</b>, a React-based e-commerce dashboard<br><br>
+  🌱 Currently learning <b>Next.js 15 &amp; advanced TypeScript</b><br><br>
+  🎯 Currently exploring <b>web performance, accessibility, and design systems</b><br><br>
+  🤝 Open to collaborate on <b>open source projects and web products</b><br><br>
+  💬 Ask me about <b>JavaScript, React, UI/UX</b><br><br>
+  📝 Currently writing <b>frontend learning notes</b><br><br>
+  ⚡ Fun fact: <b>I can spend 3 hours just picking the right button color</b> 😄
 </p>
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthuer-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuer-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<h3 align="center">💡 What I Do</h3>
 
-### 📫 Connect
+<table align="center">
+  <tr>
+    <th align="center"></th>
+    <th align="center">Focus</th>
+    <th align="center">Description</th>
+  </tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td align="center"><b>UI Development</b></td>
+    <td align="center">Turning Figma designs into pixel-perfect, responsive components</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td align="center"><b>Web Performance</b></td>
+    <td align="center">Optimizing loading speed, bundle size, and Core Web Vitals</td>
+  </tr>
+  <tr>
+    <td align="center">♿</td>
+    <td align="center"><b>Accessibility</b></td>
+    <td align="center">Building interfaces that everyone can use</td>
+  </tr>
+  <tr>
+    <td align="center">🧩</td>
+    <td align="center"><b>Design System</b></td>
+    <td align="center">Creating reusable components so teams stay consistent</td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://linkedin.com/in/arthuer-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/arthuer_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/arthuer.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:arthuer.dev@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>🎨 Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,bootstrap,sass&perline=11" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend &amp; Database</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=11" alt="Backend and Database" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools &amp; Workflow</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vite,webpack,npm,postman,vercel&perline=11" alt="Tools and Workflow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧪 Testing</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest,cypress&perline=11" alt="Testing" />
+    </td>
+  </tr>
+</table>
+
+---
